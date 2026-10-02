@@ -1,0 +1,20 @@
+INSERT INTO returns
+VALUES
+(1,2,'2024-03-10','Damaged product'),
+(2,5,'2024-04-25','Wrong product'),
+(3,9,'2024-06-25','Quality issue'),
+(4,14,'2024-09-10','Damaged product'),
+(5,18,'2024-11-08','Wrong product'),
+(6,25,'2025-02-25','Quality issue'),
+(7,31,'2025-05-28','Changed mind'),
+(8,37,'2025-08-28','Damaged product'),
+(9,43,'2025-11-28','Quality issue'),
+(10,52,'2024-06-18','Wrong product'),
+(11,56,'2025-03-18','Damaged product'),
+(12,61,'2026-01-25','Quality issue'),
+(13,68,'2026-08-08','Changed mind'),
+(14,75,'2026-07-12','Wrong product'),
+(15,83,'2026-07-18','Damaged product'),
+(16,91,'2026-08-12','Quality issue'),
+(17,94,'2026-08-28','Wrong product'),
+(18,98,'2026-09-05','Changed mind');

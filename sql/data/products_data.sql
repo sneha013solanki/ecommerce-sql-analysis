@@ -1,0 +1,22 @@
+INSERT INTO products
+VALUES
+(1, 'Laptop Pro 14', 'Electronics', 'Laptops', 75000.00),
+(2, 'Wireless Mouse', 'Electronics', 'Accessories', 1200.00),
+(3, 'Mechanical Keyboard', 'Electronics', 'Accessories', 3500.00),
+(4, 'Bluetooth Headphones', 'Electronics', 'Audio', 4500.00),
+(5, 'Smartphone X', 'Electronics', 'Mobiles', 32000.00),
+(6, 'USB-C Charger', 'Electronics', 'Accessories', 1800.00),
+(7, 'Men Cotton Shirt', 'Clothing', 'Shirts', 1500.00),
+(8, 'Women Kurti', 'Clothing', 'Ethnic Wear', 2200.00),
+(9, 'Denim Jeans', 'Clothing', 'Jeans', 2500.00),
+(10, 'Sports Shoes', 'Clothing', 'Footwear', 4000.00),
+(11, 'Running Shoes', 'Sports', 'Footwear', 3500.00),
+(12, 'Yoga Mat', 'Sports', 'Fitness', 1200.00),
+(13, 'Cricket Bat', 'Sports', 'Cricket', 2800.00),
+(14, 'Water Bottle', 'Sports', 'Fitness', 800.00),
+(15, 'Coffee Maker', 'Home & Kitchen', 'Kitchen Appliances', 5500.00),
+(16, 'Non Stick Pan', 'Home & Kitchen', 'Cookware', 1800.00),
+(17, 'Table Lamp', 'Home & Kitchen', 'Home Decor', 2200.00),
+(18, 'Face Wash', 'Beauty', 'Skincare', 650.00),
+(19, 'Moisturizer', 'Beauty', 'Skincare', 900.00),
+(20, 'Perfume', 'Beauty', 'Fragrance', 2500.00);
