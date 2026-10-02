@@ -88,8 +88,7 @@ ecommerce-sql-analysis/
 │       ├── 04_time_analysis.sql
 │       └── 05_advance_analysis.sql
 │
-└── insights/
-    └── business_insights.md
+└── business_insights.md
 ```
 
 ## Analysis Areas
